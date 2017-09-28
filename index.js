@@ -3,5 +3,5 @@ function add(a, b) {
 }
 
 function substract(a, b) {
-  resturn a - b; 
+  resturn b - a; 
 }
